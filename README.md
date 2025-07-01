@@ -10,11 +10,11 @@
 
 ###
 
-<p align="left">- ✨ Started Programming When i Was 16.<br>- 💼 Ex. Backend Developer @ Lasting Dynamics.<br>- 💼 Ex. Backend Developer Intern @ Startup Defenders.<br>- 💻 I'm currently working on a Parking System for The Saudi Arabian "Easy Parking" Company as a Freelancer.<br>- 📚 I'm currently Reading Competitive Programming 3 Book.</p>
+<p align="left">- ✨ Started Programming When I Was 16.<br>- 💼 Ex. Backend Developer @ Lasting Dynamics.<br>- 💼 Ex. Backend Developer Intern @ Startup Defenders.<br>- 📚 I'm Currently Reading "Competitive Programming 3" Book.</p>
 
 ###
 
-<h2 align="left">My Resume:</h2>
+<h2 align="left">My Resume</h2>
 
 ###
 

@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">- ✨ Started Programming When I Was 16.<br>- 💼 Ex. Backend Developer @ Lasting Dynamics.<br>- 💼 Ex. Backend Developer Intern @ Startup Defenders.<br>- 📚 I'm Currently Reading "Competitive Programming 3" Book.</p>
+<p align="left">- ✨ Started Programming When I Was 16.<br>- 💼 Ex. Backend Developer @ Lasting Dynamics.<br>- 💼 Ex. Backend Developer Intern @ Startup Defenders.</p>
 
 ###
 
